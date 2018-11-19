@@ -1,0 +1,10 @@
+name: aws
+title: InSpec Profile
+maintainer: David Elliott
+copyright: The Authors
+copyright_email: you@example.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
+supports:
+  platform: aws
